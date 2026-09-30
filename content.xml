@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1790699432320</value>
+    <value>1790768731011</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -250,9 +250,9 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Durante esta sesión realizaremos, en primer lugar, un pequeño <strong>test inicial</strong> para determinar los conocimientos de los que <strong>partimos</strong>. Tranquilos, como siempre, no puntúa para nota. A continuación os entregaré las <strong>rúbricas</strong> que me servirán para evaluaros durante estos días, hasta que finalicemos esta unidad 8. </p>
-<p>Después, realizaremos veremos dos <strong>vídeos</strong> donde conoceremos conceptos como el marketing, marketing mix, marketing digital y neuromarketing.</p>
+<p>Después, veremos dos <strong>vídeos</strong> a través de los cuales conoceremos conceptos como el marketing, marketing mix, marketing digital y neuromarketing.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790244054009-hvk876czh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante esta sesión realizaremos, en primer lugar, un pequeño <strong>test inicial</strong> para determinar los conocimientos de los que <strong>partimos</strong>. Tranquilos, como siempre, no puntúa para nota. A continuación os entregaré las <strong>rúbricas</strong> que me servirán para evaluaros durante estos días, hasta que finalicemos esta unidad 8. </p>\n<p>Después, realizaremos veremos dos <strong>vídeos</strong> donde conoceremos conceptos como el marketing, marketing mix, marketing digital y neuromarketing.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790244054009-hvk876czh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante esta sesión realizaremos, en primer lugar, un pequeño <strong>test inicial</strong> para determinar los conocimientos de los que <strong>partimos</strong>. Tranquilos, como siempre, no puntúa para nota. A continuación os entregaré las <strong>rúbricas</strong> que me servirán para evaluaros durante estos días, hasta que finalicemos esta unidad 8. </p>\n<p>Después, veremos dos <strong>vídeos</strong> a través de los cuales conoceremos conceptos como el marketing, marketing mix, marketing digital y neuromarketing.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -542,7 +542,7 @@
     <odePagStructure>
       <odePageId>page-muftxbeu-j3p2j8482</odePageId>
       <odeBlockId>block-mufu09fk-mnu8yxntb</odeBlockId>
-      <blockName></blockName>
+      <blockName>Veamos los siguientes vídeos y contestemos a las siguientes preguntas:</blockName>
       <iconName>video</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
@@ -574,14 +574,15 @@
           <odeIdeviceId>idevice-1790272473535-957k7x9ij</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Veamos los siguientes vídeos y contestemos a las siguientes preguntas:</p>
-<p><a href="https://www.youtube.com/watch?v=PAhWI63qxG4">https://www.youtube.com/watch?v=PAhWI63qxG4</a> <img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+    <p><a href="https://www.youtube.com/watch?v=PAhWI63qxG4">https://www.youtube.com/watch?v=PAhWI63qxG4</a> <img src="{{context_path}}/content/resources/mceclip0.png" /></p>
 <p><a href="https://www.youtube.com/watch?v=L_nbK-G9s_4">https://www.youtube.com/watch?v=L_nbK-G9s_4</a> <img src="{{context_path}}/content/resources/Captura de pantalla 2026-09-24 a las 20.12.05.png" width="495" height="274" alt="" /></p>
-<p></p>
-<p>1. ¿Qué significa marketing mix?<br />2. ¿Cuáles son las 4P del marketing?</p>
-<p>3. ¿Qué es el neuromarketing?<br />4. ¿Qué pretende conocer una empresa utilizando el neuromarketing?</p>
+<p><strong>Preguntas a contestar:</strong></p>
+<p>1. ¿Qué significa marketing mix?</p>
+<p>2. ¿Cuáles son las 4P del marketing?</p>
+<p>3. ¿Qué es el neuromarketing?</p>
+<p>4. ¿Qué pretende conocer una empresa utilizando el neuromarketing?</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790272473535-957k7x9ij","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Veamos los siguientes vídeos y contestemos a las siguientes preguntas:</p>\n<p><a href=\"https://www.youtube.com/watch?v=PAhWI63qxG4\">https://www.youtube.com/watch?v=PAhWI63qxG4</a> <img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p><a href=\"https://www.youtube.com/watch?v=L_nbK-G9s_4\">https://www.youtube.com/watch?v=L_nbK-G9s_4</a> <img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-09-24 a las 20.12.05.png\" width=\"495\" height=\"274\" alt=\"\" /></p>\n<p></p>\n<p>1. ¿Qué significa marketing mix?<br />2. ¿Cuáles son las 4P del marketing?</p>\n<p>3. ¿Qué es el neuromarketing?<br />4. ¿Qué pretende conocer una empresa utilizando el neuromarketing?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790272473535-957k7x9ij","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.youtube.com/watch?v=PAhWI63qxG4\">https://www.youtube.com/watch?v=PAhWI63qxG4</a> <img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p><a href=\"https://www.youtube.com/watch?v=L_nbK-G9s_4\">https://www.youtube.com/watch?v=L_nbK-G9s_4</a> <img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-09-24 a las 20.12.05.png\" width=\"495\" height=\"274\" alt=\"\" /></p>\n<p><strong>Preguntas a contestar:</strong></p>\n<p>1. ¿Qué significa marketing mix?</p>\n<p>2. ¿Cuáles son las 4P del marketing?</p>\n<p>3. ¿Qué es el neuromarketing?</p>\n<p>4. ¿Qué pretende conocer una empresa utilizando el neuromarketing?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -675,9 +676,9 @@
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Hoy comenzaremos la sesión <strong>repasando </strong>algunos de los conceptos que trabajamos en la <strong>sesión anterior</strong>: marketing, marketing mix, marketing digital y neuromarketing. Para ello, ¡realizaremos una divertida <strong>sopa de letras</strong>!</p>
 <p>Después, analizaremos una noticia de <strong>ONU Mujeres</strong> sobre los estereotipos de género en la publicidad, prestando especial atención a cómo algunas campañas de marketing pueden utilizar emociones y estereotipos diferentes según el género. </p>
-<p>Finalmente, pondremos en <strong>común</strong> nuestras <strong>conclusiones</strong> y <strong>reflexionaremos</strong> sobre la importancia de desarrollar una publicidad más igualitaria y libre de estereotipos de género.</p>
+<p>Finalmente, pondremos en <strong>común</strong> nuestras <strong>conclusiones</strong> y <strong>reflexionaremos</strong> sobre la importancia de desarrollar una publicidad más igualitaria y libre de estereotipos.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790011733893-fjskf8m2b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy comenzaremos la sesión <strong>repasando </strong>algunos de los conceptos que trabajamos en la <strong>sesión anterior</strong>: marketing, marketing mix, marketing digital y neuromarketing. Para ello, ¡realizaremos una divertida <strong>sopa de letras</strong>!</p>\n<p>Después, analizaremos una noticia de <strong>ONU Mujeres</strong> sobre los estereotipos de género en la publicidad, prestando especial atención a cómo algunas campañas de marketing pueden utilizar emociones y estereotipos diferentes según el género. </p>\n<p>Finalmente, pondremos en <strong>común</strong> nuestras <strong>conclusiones</strong> y <strong>reflexionaremos</strong> sobre la importancia de desarrollar una publicidad más igualitaria y libre de estereotipos de género.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790011733893-fjskf8m2b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy comenzaremos la sesión <strong>repasando </strong>algunos de los conceptos que trabajamos en la <strong>sesión anterior</strong>: marketing, marketing mix, marketing digital y neuromarketing. Para ello, ¡realizaremos una divertida <strong>sopa de letras</strong>!</p>\n<p>Después, analizaremos una noticia de <strong>ONU Mujeres</strong> sobre los estereotipos de género en la publicidad, prestando especial atención a cómo algunas campañas de marketing pueden utilizar emociones y estereotipos diferentes según el género. </p>\n<p>Finalmente, pondremos en <strong>común</strong> nuestras <strong>conclusiones</strong> y <strong>reflexionaremos</strong> sobre la importancia de desarrollar una publicidad más igualitaria y libre de estereotipos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1132,8 +1133,8 @@
     <odePagStructure>
       <odePageId>page-mufusake-n1807dcvn</odePageId>
       <odeBlockId>block-mufusc30-wgep3t8lk</odeBlockId>
-      <blockName>📝 FICHA DE LA EXCURSIÓN</blockName>
-      <iconName></iconName>
+      <blockName>FICHA DE LA EXCURSIÓN</blockName>
+      <iconName>diary</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1528,18 +1529,42 @@
   <odePageId>page-mumwlxbh-58ozpbumn</odePageId>
   <odeParentPageId>page-mufch601-fft51wrz6</odeParentPageId>
   <pageName>Mapa conceptual</pageName>
-  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Mapa conceptual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mapa conceptual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-mumwlxbh-58ozpbumn</odePageId>
       <odeBlockId>block-mumwlyty-ll9jb6t9c</odeBlockId>
-      <blockName>Nos debería de quedar un mapa conceptual parecido a este:</blockName>
+      <blockName>Nos debería quedar un mapa conceptual parecido a este:</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1577,6 +1602,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1790700108692-invrhntgq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mercado.png\" width=\"1254\" height=\"1146\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1654,9 +1691,9 @@
           <odeIdeviceId>idevice-1790244333993-ueozcga71</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>En esta sesión aprenderemos la <strong>relación</strong> entre <strong>cliente</strong>, <strong>mercado</strong> y <strong>marketing</strong> <strong>empresarial</strong>. Analizaremos qué necesitan las empresas para <strong>conocer</strong> a sus clientes y entender sus <strong>hábitos de compra</strong>.<br />Finalmente, trabajaremos en equipo para tomar <strong>decisiones</strong> y resolver un <strong>reto</strong> <strong>empresarial</strong>.</p>
+    <p>En esta sesión aprenderemos la <strong>relación</strong> entre <strong>cliente</strong>, <strong>mercado</strong> y <strong>marketing</strong> <strong>empresarial</strong>. Analizaremos qué necesitan las empresas para <strong>conocer</strong> a sus clientes y entender los <strong>hábitos de compra</strong> de estos mismos.<br />Finalmente, trabajaremos en equipo para tomar una serie de <strong>decisiones</strong> y resolver un entretenido <strong>reto</strong> <strong>empresarial.</strong></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790244333993-ueozcga71","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión aprenderemos la <strong>relación</strong> entre <strong>cliente</strong>, <strong>mercado</strong> y <strong>marketing</strong> <strong>empresarial</strong>. Analizaremos qué necesitan las empresas para <strong>conocer</strong> a sus clientes y entender sus <strong>hábitos de compra</strong>.<br />Finalmente, trabajaremos en equipo para tomar <strong>decisiones</strong> y resolver un <strong>reto</strong> <strong>empresarial</strong>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790244333993-ueozcga71","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión aprenderemos la <strong>relación</strong> entre <strong>cliente</strong>, <strong>mercado</strong> y <strong>marketing</strong> <strong>empresarial</strong>. Analizaremos qué necesitan las empresas para <strong>conocer</strong> a sus clientes y entender los <strong>hábitos de compra</strong> de estos mismos.<br />Finalmente, trabajaremos en equipo para tomar una serie de <strong>decisiones</strong> y resolver un entretenido <strong>reto</strong> <strong>empresarial.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1681,8 +1718,28 @@
   <odePageId>page-mumwxp7w-ki99s5brw</odePageId>
   <odeParentPageId>page-mufchuhu-n6fbjhzjj</odeParentPageId>
   <pageName>Comenzamos</pageName>
-  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comenzamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Comenzamos</value>
@@ -1697,7 +1754,7 @@
       <odePageId>page-mumwxp7w-ki99s5brw</odePageId>
       <odeBlockId>block-mumx25cs-6q69mj08z</odeBlockId>
       <blockName>Formulario</blockName>
-      <iconName></iconName>
+      <iconName>activity</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1769,6 +1826,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1790700863642-vdfkyvro3","evaluation":false,"evaluationID":"58220abb-b12e-45bf-8f0f-a92ed0f1489e","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1790700863642-vdfkyvro3","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>🛍️ Imagina que quieres crear una <strong>tienda de zapatos</strong> para <strong>jóvenes</strong>.<br />Antes de empezar, necesitas saber:</p>","questionsData":[{"id":"1790700956483-MVYFR","activityType":"selection","baseText":"<p>¿A quién dirigirías principalmente tu tienda?</p>\n<p><br /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Personas jubiladas"],[true,"Jóvenes de 16-20 años"],[false,"Bebés"],[false,"Empresas constructoras"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1790700956483-CPI0W","activityType":"selection","baseText":"<p>¿Qué deberías conocer para saber qué zapatos ofrecer?</p>\n<p><br /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"El color favorito del dueño de la tienda"],[true,"Los gustos y preferencias de los jóvenes"],[false,"El horario de los profesores"],[false,"El tamaño del local"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"activityType":"selection","selectionType":"single","baseText":"<p>¿Por qué es importante conocer cuánto dinero están dispuestos a gastar tus clientes?<p>","answers":[[false,"Porque así puedes contratar más trabajadores"],[true,"Para establecer un precio adecuado"],[false,"Para elegir el nombre de la tienda"],[false,"Para decorar el escaparate"]],"id":"1790700956483-0PYK9","feedbackRight":"","feedbackWrong":"","suggestion":""},{"id":"1790700956483-VSCT2","activityType":"selection","baseText":"<p>Quieres saber dónde suelen comprar zapatos tus clientes. ¿Qué información te interesa?</p>\n<p><br /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Si compran en tiendas físicas, webs o aplicaciones"],[false,"Qué asignaturas les gustan"],[false,"Dónde viven los trabajadores"],[false,"Qué música escuchan"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1790700956483-AFK7L","activityType":"selection","baseText":"<p>Antes de abrir tu tienda, ¿por qué deberías conocer otras tiendas de zapatos?</p>\n<p><br /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Porque pueden prestarte dinero"],[false,"Porque necesitas saber qué música ponen"],[true,"Para conocer a la competencia y diferenciarte"],[false,"Porque pueden trabajar para ti"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1779,8 +1848,28 @@
   <odePageId>page-mumx6dmg-fvszx3m45</odePageId>
   <odeParentPageId>page-mufchuhu-n6fbjhzjj</odeParentPageId>
   <pageName>¡Algo de teoría nunca está de más!</pageName>
-  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Algo de teoría nunca está de más!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>¡Algo de teoría nunca está de más!</value>
@@ -1833,6 +1922,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1790701083527-02lo1k7jh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>💡 Una empresa no debe vender lo que quiere, sino ofrecer al cliente aquello que necesita o desea.</strong></p>\n<p><strong></strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/marketing.png\" width=\"1254\" height=\"836\" alt=\"\" /></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1843,8 +1944,28 @@
   <odePageId>page-mumxb7z1-bt5izveae</odePageId>
   <odeParentPageId>page-mufchuhu-n6fbjhzjj</odeParentPageId>
   <pageName>Gamificación</pageName>
-  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gamificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Gamificación</value>
@@ -1902,6 +2023,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1790701387004-stkn5cyzx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cada equipo recibe una <strong>misión empresarial</strong>.</p>\n<p>🟢 <strong>PRUEBA 1: ¿Quién es mi cliente?</strong><br />Cada grupo recibe una empresa:</p>\n<p>👟 Tienda de zapatillas<br />🍔 Hamburguesería<br />📱 Tienda de móviles<br />💄 Tienda de cosmética<br />🎮 Tienda de videojuegos<br />Deben elegir entre varias opciones quién sería su <strong>cliente objetivo</strong>.</p>\n<p> <br /><strong>🟡 PRUEBA 2: ¿Qué quiere?</strong><br />Hay distintas tarjetas con distintos deseos que puede tener el cliente.</p>\n<p>El grupo debe elegir las 3 características más importantes para su cliente y justificar la elección.</p>\n<p> <br />🔵<strong> PRUEBA 3: Elige tu estrategia de marketing</strong><br />El equipo debe decidir:</p>\n<p>1. PRODUCTO: ¿Qué venderemos?<br />2. PRECIO: ¿Será barato, medio o caro?<br />3. DISTRIBUCIÓN: ¿Tienda física, online o ambas?<br />4. COMUNICACIÓN: ¿Instagram, TikTok, carteles, influencers…?</p>\n<p>🔴<strong>PRUEBA 4: Lo explicamos al resto de compañeros.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1979,9 +2112,9 @@
           <odeIdeviceId>idevice-1790244346537-pk7f8pfzj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    
+    <p>A lo largo de esta clase lo que haremos será, en primer lugar, conocer qué es el <strong>Big Data</strong> y para qué sirve. Una vez que hemos analizado la relación del Big Data con las <strong>empresas</strong>, vamos a realizar en <strong>grupos, </strong>un caso práctico en el que tendremos que analizar una serie de<strong> empresas andaluzas </strong>que todos conocemos.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790244346537-pk7f8pfzj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790244346537-pk7f8pfzj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de esta clase lo que haremos será, en primer lugar, conocer qué es el <strong>Big Data</strong> y para qué sirve. Una vez que hemos analizado la relación del Big Data con las <strong>empresas</strong>, vamos a realizar en <strong>grupos, </strong>un caso práctico en el que tendremos que analizar una serie de<strong> empresas andaluzas </strong>que todos conocemos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2006,8 +2139,28 @@
   <odePageId>page-mumyexnk-5djt2lj6u</odePageId>
   <odeParentPageId>page-mufchxdf-lfrt1nz1w</odeParentPageId>
   <pageName>Teoría</pageName>
-  <odeNavStructureOrder>25</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Teoría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Teoría</value>
@@ -2061,6 +2214,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1790703177057-6gmszy60y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El Big Data es el conjunto de <strong>grandes cantidades de datos</strong> que se generan <strong>constantemente</strong> y que las <strong>empresas</strong> pueden recoger, analizar y utilizar para tomar decisiones.</p>\n<p>Por ejemplo, una tienda puede conocer:</p>\n<p>🛒 Qué productos compra más la gente.<br />👥 Qué tipo de clientes tiene.<br />📱 Qué publicaciones tienen más visitas.<br />🌐 Qué productos se buscan más en su web.<br />⏰ En qué momentos hay más compras.<br /><br /></p>\n<p>Las empresas generan y utilizan muchos datos: compras, clientes, redes sociales, visitas a páginas web, productos más vendidos, etc.<br />El Big Data permite <strong>recoger</strong> y <strong>analizar</strong> estos datos para tomar mejores decisiones</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2071,8 +2236,28 @@
   <odePageId>page-mumyjp10-xcnhf5rw6</odePageId>
   <odeParentPageId>page-mufchxdf-lfrt1nz1w</odeParentPageId>
   <pageName>Caso práctico y aprendizaje cooperativo</pageName>
-  <odeNavStructureOrder>26</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caso práctico y aprendizaje cooperativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Caso práctico y aprendizaje cooperativo</value>
@@ -2137,6 +2322,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1790703384264-ln0odaz9a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se forman <strong>grupos</strong> de 4-5 alumnos.</p>\n<p>Cada grupo elige o recibe una empresa andaluza. </p>\n<p>-Mercadona → presencia y actividad empresarial en Andalucía<br />-Covirán → Granada<br />-Cruzcampo/Heineken España → Sevilla<br />-Dcoop → Málaga<br />-Ayesa → Sevilla<br />-Grupo MAS → Sevilla<br /> <br /> <img src=\"{{context_path}}/content/resources/mercad.jpg\" width=\"264\" height=\"164\" alt=\"\" /><img src=\"{{context_path}}/content/resources/cruzcampo.jpg\" width=\"242\" height=\"161\" alt=\"\" /><img src=\"{{context_path}}/content/resources/MAS .jpg\" width=\"269\" height=\"179\" alt=\"\" /><img src=\"{{context_path}}/content/resources/Coviran-Plus.jpg\" width=\"254\" height=\"169\" alt=\"\" /></p>\n<p> <br /> </p>\n<p>Cada grupo debe investigar:</p>\n<p><strong>📊 Ficha del informe</strong><br /><strong>1. Empresa</strong></p>\n<p>-Nombre<br />-Localidad/provincia<br />-¿A qué se dedica?<br /></p>\n<p><strong>2. ¿Qué datos puede utilizar?</strong></p>\n<p>-Datos de clientes<br />-Ventas<br />-Redes sociales<br />-Compras<br />-Visitas a la web<br />-Otros...<br /></p>\n<p><strong>3. ¿Cómo puede utilizar el Big Data?</strong><br />Explicar 2 o 3 ejemplos concretos.</p>\n<p><strong>4. ¿Qué beneficios obtiene?</strong><br />Por ejemplo:</p>\n<p>-Conocer mejor a sus clientes.<br />-Mejorar sus productos.<br />-Aumentar las ventas.<br />-Predecir la demanda.<br />-Personalizar la publicidad.<br /></p>\n<p><strong>5. Conclusión</strong></p>\n<p>¿Por qué puede ser importante el Big Data para esta empresa?</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2241,8 +2438,28 @@
   <odePageId>page-mumxoued-kyo7ieabm</odePageId>
   <odeParentPageId>page-mufchz7c-c00y0s1sl</odeParentPageId>
   <pageName>Teoría</pageName>
-  <odeNavStructureOrder>22</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Teoría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Teoría</value>
@@ -2303,6 +2520,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1790701924452-gowtace1m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>No todos los clientes son iguales. Tienen edades, gustos, necesidades y hábitos de compra diferentes. Por eso, las empresas pueden dividir el mercado en grupos de clientes con características similares.</p>\n<p><strong>Segmentar = dividir el mercado en grupos de clientes parecidos para ofrecerles productos y estrategias más adaptadas a sus necesidades.</strong></p>\n<p>A estos grupos se les llama <strong>segmentos de mercado</strong>.</p>\n<p>🎯 ¿Cómo puede segmentar una empresa?<br /><strong>1. Por edad</strong> 👶👧🧑👵<br />Divide a los clientes según su edad.<br />→ Ejemplo: ropa para niños, jóvenes o adultos.</p>\n<p><strong>2. Por sexo </strong>👩👨<br />Se crean productos o campañas dirigidas principalmente a hombres o mujeres.<br />→ Ejemplo: una línea de cosmética dirigida a mujeres.</p>\n<p><strong>3. Por nivel económico</strong> 💰<br />Se tienen en cuenta los ingresos o el poder adquisitivo.<br />→ Ejemplo: marcas de lujo frente a marcas económicas.</p>\n<p><strong>4. Por ubicación geográfica</strong> 📍<br />Se divide el mercado según el lugar donde viven los clientes.<br />→ Ejemplo: una empresa que ofrece productos diferentes para zonas de playa y zonas de montaña.</p>\n<p><strong>5. Por gustos y estilo de vida </strong>❤️🎨<br />Se tienen en cuenta las aficiones, intereses o forma de vivir.<br />→ Ejemplo: productos para personas deportistas, veganas o amantes de la tecnología.</p>\n<p><strong>6. Por comportamiento de compra </strong>🛒<br />Se analiza cómo compran los clientes: frecuencia, cantidad, fidelidad a una marca, etc.<br />→ Ejemplo: descuentos especiales para clientes que compran habitualmente.</p>\n<p>💡 ¿Para qué sirve segmentar?<br />La segmentación permite a las empresas:</p>\n<p>- Conocer mejor a sus clientes.<br />- Crear publicidad más adecuada.<br />- Ofrecer productos adaptados.<br />- Fijar precios diferentes según el público.<br />- Conseguir clientes más satisfechos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2313,8 +2542,28 @@
   <odePageId>page-mumxslv3-nfudr0xdg</odePageId>
   <odeParentPageId>page-mufchz7c-c00y0s1sl</odeParentPageId>
   <pageName>Preguntas a responder</pageName>
-  <odeNavStructureOrder>23</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Preguntas a responder</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Preguntas a responder</value>
@@ -2368,6 +2617,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1790702099994-8prz8xd75","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sobre el documental:</strong></p>\n<p>1. ¿Cuál es el principal objetivo de las redes sociales según el documental?<br />2. ¿Cómo consiguen las redes sociales conocer nuestros gustos e intereses?<br />3. ¿Qué tipo de información sobre nosotros pueden recoger?<br />4. ¿Por qué quieren que pasemos cada vez más tiempo en la plataforma?<br />Relacionándolo con segmentación<br />5. ¿Cómo pueden utilizar las redes sociales nuestros datos para segmentarnos?<br />6. Pon un ejemplo de un anuncio que podría aparecerte a ti y no a otra persona. ¿Por qué?<br />7. ¿Crees que dos personas pueden ver anuncios diferentes aunque estén utilizando la misma red social? ¿Por qué?<br />8. ¿Qué características pueden utilizar las empresas para dividir a los usuarios en grupos?</p>\n<p><strong>Para</strong> <strong>reflexionar:</strong></p>\n<p>9. ¿Alguna vez has buscado algo en Internet y después te han aparecido anuncios relacionados? Pon un ejemplo.<br />10. ¿Crees que las redes sociales conocen nuestros gustos mejor de lo que pensamos?<br />11. ¿Qué ventajas tiene para una empresa conocer tan bien a sus clientes?<br />12. ¿Qué problemas o riesgos puede tener que una empresa tenga tanta información sobre nosotros?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -2445,9 +2706,9 @@
           <odeIdeviceId>idevice-1790244368889-9dyowcr91</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Terminaremos de ver el documental “El dilema de las redes sociales” y repasaremos las ideas principales.<br />Después, en <strong>grupos</strong>, elaboraremos un <strong>mural</strong> con las respuestas y <strong>conclusiones</strong> de las preguntas trabajadas en la sesión anterior.<br />Finalmente, pondremos en común los murales y realizaremos un debate sobre el uso de las <strong>redes</strong> <strong>sociales</strong>, la <strong>publicidad</strong> y el <strong>uso de nuestros datos</strong>.</p>
+    <p>Terminaremos de ver el documental “El dilema de las redes sociales” y repasaremos las ideas principales.<br />Después, en <strong>grupos</strong>, elaboraremos un <strong>mural</strong> con las respuestas y <strong>conclusiones</strong> de las preguntas entregadas en la sesión anterior.<br />Finalmente, pondremos en común los murales y realizaremos un debate sobre el uso de las <strong>redes</strong> <strong>sociales</strong>, la <strong>publicidad</strong> y el <strong>uso de nuestros datos</strong>.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790244368889-9dyowcr91","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Terminaremos de ver el documental “El dilema de las redes sociales” y repasaremos las ideas principales.<br />Después, en <strong>grupos</strong>, elaboraremos un <strong>mural</strong> con las respuestas y <strong>conclusiones</strong> de las preguntas trabajadas en la sesión anterior.<br />Finalmente, pondremos en común los murales y realizaremos un debate sobre el uso de las <strong>redes</strong> <strong>sociales</strong>, la <strong>publicidad</strong> y el <strong>uso de nuestros datos</strong>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790244368889-9dyowcr91","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Terminaremos de ver el documental “El dilema de las redes sociales” y repasaremos las ideas principales.<br />Después, en <strong>grupos</strong>, elaboraremos un <strong>mural</strong> con las respuestas y <strong>conclusiones</strong> de las preguntas entregadas en la sesión anterior.<br />Finalmente, pondremos en común los murales y realizaremos un debate sobre el uso de las <strong>redes</strong> <strong>sociales</strong>, la <strong>publicidad</strong> y el <strong>uso de nuestros datos</strong>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2472,11 +2733,35 @@
   <odePageId>page-mumy6ptj-xsr8r6ibg</odePageId>
   <odeParentPageId>page-mufci0h3-xmxr67a5g</odeParentPageId>
   <pageName>Debate</pageName>
-  <odeNavStructureOrder>24</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Debate</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Debate</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -2520,6 +2805,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1790702758688-a6wk9dly8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>-¿Las redes sociales nos conocen demasiado? ¿Por qué?<br />-¿Es positivo o negativo que nos aparezcan anuncios adaptados a nuestros gustos?<br />-¿Hasta qué punto deberíamos permitir que las empresas utilicen nuestros datos?<br />-¿Las redes sociales influyen en lo que compramos? Pon algún ejemplo.<br />-¿Elegimos nosotros lo que vemos en redes o el algoritmo decide por nosotros?<br />-¿Deberían las redes sociales explicar claramente cómo utilizan nuestros datos?<br />-¿Creéis que los jóvenes somos más fáciles de influenciar a través de las redes sociales? ¿Por qué?<br />-¿Es posible utilizar las redes sociales de forma responsable sin dejar de utilizarlas?<br />-¿Qué ventajas tiene para una empresa conocer los gustos y hábitos de sus clientes?<br />-¿Dónde debería estar el límite entre personalizar la publicidad y manipular al consumidor?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
